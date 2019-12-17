@@ -1,0 +1,14 @@
+.box {
+    border: 5px solid dodgerblue;
+    width: 200px;
+    height: 200px;
+}
+
+.crosses {
+    background: red;
+    border: pink;
+}
+.noughts {
+    background: blue;
+    border: cyan;
+}
